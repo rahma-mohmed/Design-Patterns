@@ -1,0 +1,14 @@
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\bin\Debug\net8.0\Adapter.exe
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\bin\Debug\net8.0\Adapter.deps.json
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\bin\Debug\net8.0\Adapter.runtimeconfig.json
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\bin\Debug\net8.0\Adapter.dll
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\bin\Debug\net8.0\Adapter.pdb
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.dll
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\refint\Adapter.dll
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.pdb
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+D:\DotNet\Design Patterns\ConsoleApp1\EmployeeDataReader\obj\Debug\net8.0\ref\Adapter.dll

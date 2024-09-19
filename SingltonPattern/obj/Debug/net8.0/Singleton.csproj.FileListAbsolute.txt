@@ -1,0 +1,14 @@
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Singleton.exe
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Singleton.deps.json
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Singleton.dll
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Singleton.pdb
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.dll
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Singleton.dll
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.pdb
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\DotNet\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Singleton.dll
